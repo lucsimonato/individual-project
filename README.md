@@ -6,4 +6,8 @@ Folder *VR version* contains the Unity project and the apk of the VR based exper
 Folder *Computer version* contains the Unity project and the executable version of the computer based experience  
   
 Folder *csv* contains the Normalized Volve data used  
-Folder *obj* contains the 3D models produced and used in the project 
+Folder *obj* contains the 3D models produced and used in the project  
+Folder *demo recordings* contains the raw footage of the demo  
+Folder *presentation* contains the presentation slides and final recorded demonstration  
+Folder *final report* contains the pdf verion of the report  
+
