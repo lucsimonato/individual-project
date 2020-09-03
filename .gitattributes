@@ -1,3 +1,5 @@
 *.apk filter=lfs diff=lfs merge=lfs -text
 data.unity3d filter=lfs diff=lfs merge=lfs -text
 VR[[:space:]]version/unity[[:space:]]project/Library/PlayerDataCache/Android/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+'recordings/recorded filter=lfs diff=lfs merge=lfs -text
+demo.mp4' filter=lfs diff=lfs merge=lfs -text
